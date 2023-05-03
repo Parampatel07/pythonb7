@@ -10,3 +10,4 @@ temp = person.count(19)
 print(temp)
 temp = person.index(True)
 print(temp)
+# change
