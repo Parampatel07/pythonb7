@@ -5,3 +5,9 @@ if
 3) write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
 
 4) write a program to accept one letter from user. if letter is a then print message "it is first letter of abcd".
+
+5) write a program to findout whether given letter is digit or not. 
+
+6) write a program to accept user body temperature in farenheit and if is is above 100.2 then display message you have high grade fever
+
+7) write a program to accept RBS(Running Blood sugar) from user and then print message you have high blood sugar if RBS is above normal level (use help from internet)
