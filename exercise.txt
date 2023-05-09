@@ -11,3 +11,13 @@ if
 6) write a program to accept user body temperature in farenheit and if is is above 100.2 then display message you have high grade fever
 
 7) write a program to accept RBS(Running Blood sugar) from user and then print message you have high blood sugar if RBS is above normal level (use help from internet)
+
+
+12) Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://in.pinterest.com/pin/81698180718875314/
+
+13) Write a program to accept male and female person birth day and month separately and calculate the compatibility for relationship using following criteria
+https://web.colby.edu/cogblog/files/2018/04/barnum-2-580x758.png
+
+14)Write a programe to find distance of planet from sun 
+https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf
