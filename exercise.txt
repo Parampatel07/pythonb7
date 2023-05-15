@@ -73,3 +73,9 @@ Write a program to print following pattern
 1  5  9   13  17  21  25 
 
 https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
+
+1
+2 2 
+3 3 3
+4 4 4 4
+5 5 5 5 5
