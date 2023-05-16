@@ -9,8 +9,10 @@ odd_number =0
 while count < len(numbers):
      if numbers[count] % 2 == 0:
           even += 1
+          print(count)
      else:
           odd += 1
+          print(count)
      count+=1
 print("total even numbers are ",even)
 print("total odd numbers are ",odd)
