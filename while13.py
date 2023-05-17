@@ -9,13 +9,17 @@ odd_number = []
 while count < len(numbers):
      if numbers[count] % 2 == 0:
           even += 1
-          print(count)
+          # print(count)
+          even_number.append(numbers[count])
      else:
           odd += 1
-          print(count)
+          # print(count)
+          odd_number.append(numbers[count])
      count+=1
 print("total even numbers are ",even)
 print("total odd numbers are ",odd)
+print("list of even number is ",even_number)
+print("list of odd number is ",odd_number)
 # if numbers[1] % 2 == 0:
 #      even+=1
 # else:
