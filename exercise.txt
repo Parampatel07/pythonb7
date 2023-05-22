@@ -86,3 +86,8 @@ write a program to findout power of given number using given exponent  do not us
 
 2) Write a program that appends the square of each number to a new list.
 numbers = [1,2,3,4,5,6,7,8,9,10]
+
+Write a programe to print table of user given number using for loop 
+
+Write a program to count negative value in tuples 
+(1,2,343,121,-2312,-345,-12,12,54,-45,-65,-23,-56,-23,-554,232,54,12,45,-12)
