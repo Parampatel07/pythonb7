@@ -91,3 +91,18 @@ Write a programe to print table of user given number using for loop
 
 Write a program to count negative value in tuples 
 (1,2,343,121,-2312,-345,-12,12,54,-45,-65,-23,-56,-23,-554,232,54,12,45,-12)
+
+function
+-------------------------------------------
+Write a programe to make a calc using function 
+->addition
+->subtraction
+->multiplication
+->division
+->modulus
+->max
+->min
+->equality
+
+Write a programe to create a bmi calc 
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cdc.gov%2Fhealthyweight%2Fimages%2Fassessing%2Fbmi-adult-fb-600x315.jpg%3F_%3D07167&tbnid=OBVtIozsohR6zM&vet=12ahUKEwiD0oqQ04v_AhWbk9gFHVHsB2kQMygAegUIARDjAQ..i&imgrefurl=https%3A%2F%2Fwww.cdc.gov%2Fhealthyweight%2Fassessing%2Fbmi%2Fadult_bmi%2Findex.html&docid=f4E-W45ma3qlxM&w=600&h=315&q=bmi&client=firefox-b-d&ved=2ahUKEwiD0oqQ04v_AhWbk9gFHVHsB2kQMygAegUIARDjAQ
