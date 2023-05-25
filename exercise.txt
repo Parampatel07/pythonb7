@@ -113,3 +113,9 @@ number = 56
 five six
 
 Write a program to findout factoiral to given number using function 
+
+Write a programe to findout price from weight  from given fix value input weight 
+1000gm = Rs500
+
+Write a programe to findout weight from price from given fix value input price 
+1000gm = Rs500 
