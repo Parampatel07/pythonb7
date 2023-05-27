@@ -112,10 +112,14 @@ Write a programe to print 2 digit number in words using function
 number = 56
 five six
 
-Write a program to findout factoiral to given number using function 
+Write a program to findout factoiral to given number using function.
 
-Write a programe to findout price from weight  from given fix value input weight 
+Write a programe to findout price from weight  from given fix value input weight.
 1000gm = Rs500
 
-Write a programe to findout weight from price from given fix value input price 
-1000gm = Rs500 
+Write a programe to findout weight from price from given fix value input price.
+1000gm = Rs500
+
+Datetime 
+-----------------------
+write a programe to findout total number of days you lived from your birthdate 
