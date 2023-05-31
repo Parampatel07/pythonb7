@@ -126,3 +126,4 @@ write a programe to findout total number of days you lived from your birthdate.
 
 example to store date as date then compare with other date which date is greater 
 date1 , date2 
+
