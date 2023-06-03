@@ -127,3 +127,10 @@ write a programe to findout total number of days you lived from your birthdate.
 example to store date as date then compare with other date which date is greater 
 date1 , date2 
 
+modules
+-------------------------------
+Create a module which has all required function to find bmi 
+and find bmi in other file 
+
+Create a module which has all the function for calc 
+and preapre a calc in other in such a way that calc continues to run until user press 0 as option 

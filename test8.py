@@ -7,7 +7,5 @@ if x or y and z:
 else:
     print("False")
 
-# false -   
 # true -  jaydeep , 
-# 
 # pratham , dvani , diya , jaydeep, ansh ,sahil
