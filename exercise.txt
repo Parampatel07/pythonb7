@@ -134,3 +134,9 @@ and find bmi in other file
 
 Create a module which has all the function for calc 
 and preapre a calc in other in such a way that calc continues to run until user press 0 as option 
+
+Write a programe that generate a list of ten random indian phone number that start with 9
+
+Write a programe to create toss game 
+
+Write a programe to create a quiz game which has 5 question with answer's findout how many answer does user gave correct and also score if the score is below 3 then quiz restart again.
