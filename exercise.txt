@@ -146,7 +146,9 @@ Write a programe to create a quiz game which has 5 question with answer's findou
 ->answer 
 ->question 3 
 -> answer
-
 your total score is 3
 
 Write a programe to create a password generator which contains of uppercase lowercase and digit 
+
+Write a programe to get petrol price from 
+https://www.ndtv.com/fuel-prices/petrol-price-in-bhavnagar-city
