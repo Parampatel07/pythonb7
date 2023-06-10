@@ -152,3 +152,6 @@ Write a programe to create a password generator which contains of uppercase lowe
 
 Write a programe to get petrol price from 
 https://www.ndtv.com/fuel-prices/petrol-price-in-bhavnagar-city
+
+https://www.ndtv.com/fuel-prices
+[{'city':'Adilabad','petrol_price':'111.83 ₹/L','diseal':"99.84 ₹/L"}]
