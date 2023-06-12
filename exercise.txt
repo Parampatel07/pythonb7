@@ -155,3 +155,6 @@ https://www.ndtv.com/fuel-prices/petrol-price-in-bhavnagar-city
 
 https://www.ndtv.com/fuel-prices
 [{'city':'Adilabad','petrol_price':'111.83 ₹/L','diseal':"99.84 ₹/L"}]
+
+https://www.futhead.com/23/players/
+{name'lionel messi','position':'St'...}
