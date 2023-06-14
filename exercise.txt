@@ -161,3 +161,10 @@ https://www.futhead.com/23/players/
 
 Write a programe to find petrol of user given city 
 https://economictimes.indiatimes.com/wealth/fuelprices/fuel-petrol,citystate-gujarat.cms
+
+Write a programe to find all details of select player
+https://www.futhead.com/latest/
+
+Make qr code which shows your name when scan 
+
+Make qr code which shows information about todays wether when scaned
