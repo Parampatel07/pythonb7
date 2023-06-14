@@ -158,3 +158,6 @@ https://www.ndtv.com/fuel-prices
 
 https://www.futhead.com/23/players/
 {name'lionel messi','position':'St'...}
+
+Write a programe to find petrol of user given city 
+https://economictimes.indiatimes.com/wealth/fuelprices/fuel-petrol,citystate-gujarat.cms
