@@ -177,3 +177,9 @@ d1 = hobbies
 
 Create a excel sheet with following pattern
 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 3000
+
+Write a programe to create a file which has data about your city in 5 different lines 
+
+Write a programe to read a file 
+
+Write a programe to read a file and findout how many vowel does it contains (file should contain minimum 100 character)
