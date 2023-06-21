@@ -7,3 +7,4 @@ for value in file:
      count+=1
 
 print(count)
+file.close()

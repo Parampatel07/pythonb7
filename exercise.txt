@@ -183,3 +183,7 @@ Write a programe to create a file which has data about your city in 5 different 
 Write a programe to read a file 
 
 Write a programe to read a file and findout how many vowel does it contains (file should contain minimum 100 character)
+
+Write a programe to create a file in other folder 
+
+Write a programe to read all file in a specific folder 
