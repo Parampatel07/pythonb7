@@ -187,3 +187,11 @@ Write a programe to read a file and findout how many vowel does it contains (fil
 Write a programe to create a file in other folder 
 
 Write a programe to read all file in a specific folder 
+
+Oop 
+-----------------------------
+Write a programe to create class named car 
+it should have method start , stop 
+
+Write a program to create a class employee 
+it should have method work , break 
