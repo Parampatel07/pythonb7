@@ -200,3 +200,12 @@ Write a programe to create a class meterConverter
 ->metertoinch
 ->metertofoot
 ->metertocentimeter
+
+
+SQL
+-------------------------------
+Write a query to get version , time , current date 
+
+Write a query to get list of table 
+
+write a query to get list of all the field in table 
