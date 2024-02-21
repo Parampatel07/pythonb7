@@ -1,7 +1,9 @@
-n=int(input("enter the value="))
-mul=int(input("enter power="))
+import pycountry
 
-for i in range(1,n):
-    n=n*mul
+def generate_country_options():
+    countries = list(pycountry.countries)
+    countries.sort(key=lambda x: x.name)
+    for i, country in enumerate(countries, start=1):
+        print(f'<option value="{i}">{country.name}</option>')
 
-print("power is=",n)
+generate_country_options()
